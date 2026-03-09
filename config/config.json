@@ -2,7 +2,7 @@
   "llm_model":"llama3.2",
   "embedding_model":"mxbai-embed-large",
   "vector_db":"chroma",
-  "chunk_size":600,
-  "chunk_overlap": 100,
-  "retriever_k":6
+  "chunk_size":1000,
+  "chunk_overlap": 200,
+  "retrive_k":6
 }
