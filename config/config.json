@@ -1,0 +1,8 @@
+{
+  "llm_model":"llama3.2",
+  "embedding_model":"mxbai-embed-large",
+  "vector_db":"chroma",
+  "chunk_size":600,
+  "chunk_overlap": 100,
+  "retriever_k":6
+}
